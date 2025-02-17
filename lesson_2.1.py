@@ -1,4 +1,22 @@
 
+print('Hello world!')
+print('"Hello world!"')
+print("Hello '\"' world!")
+print('Hello "\\" world!')
+print("2 + 3")
+print(2 + 3)
+print("Hello, " + "Alex")
+print("Hello,", "Alex")
+print("Hello,", "Alex", "and Michael")
+print("Hello,", "Alex", "and Michael", sep="-")
+print("Hello,", "Alex", "and Michael", sep="")
+
+print("Hello,\nAlex")
+
+print('________________________________________________________________________________________________________')
+
+# УПРАЖНЕНИЯ
+
 # 1) Выведите с помощью двух функций print два предложения: «Я прохожу курс по Python» и «Я учу Python по курсу:
 # ‘Программирование на Python с Нуля до Гуру’».
 #
