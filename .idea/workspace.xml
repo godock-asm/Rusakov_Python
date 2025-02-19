@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="18.02.2025">
+    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="20.02.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2.6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lesson_10.executor": "Run",
+    "Python.Lesson_12.executor": "Run",
+    "Python.Lesson_14.executor": "Run",
     "Python.Lesson_8.executor": "Run",
     "Python.lesson_1.executor": "Run",
+    "Python.lesson_2.10.executor": "Run",
+    "Python.lesson_2.11.executor": "Run",
+    "Python.lesson_2.12.executor": "Run",
+    "Python.lesson_2.13.executor": "Run",
+    "Python.lesson_2.14.executor": "Run",
     "Python.lesson_2.3.executor": "Run",
     "Python.lesson_2.4.executor": "Run",
     "Python.lesson_2.5.executor": "Run",
@@ -143,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739878011362</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="20.02.2025">
+      <option name="closed" value="true" />
+      <created>1740000202639</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740000202639</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20.02.2025">
+      <option name="closed" value="true" />
+      <created>1740000497653</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740000497653</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +183,8 @@
     <MESSAGE value="16.02.2025" />
     <MESSAGE value="17.02.2025" />
     <MESSAGE value="18.02.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.02.2025" />
+    <MESSAGE value="20.02.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
