@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="20.02.2025">
+    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="21.02.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;godock-asm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/godock-asm/Rusakov_Python.git&quot;,
+    &quot;accountId&quot;: &quot;a3157126-0d2a-4128-89d0-be2b702d7d03&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -35,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.555.executor": "Run",
     "Python.Lesson_10.executor": "Run",
     "Python.Lesson_12.executor": "Run",
     "Python.Lesson_14.executor": "Run",
@@ -45,6 +58,7 @@
     "Python.lesson_2.12.executor": "Run",
     "Python.lesson_2.13.executor": "Run",
     "Python.lesson_2.14.executor": "Run",
+    "Python.lesson_2.15.executor": "Run",
     "Python.lesson_2.3.executor": "Run",
     "Python.lesson_2.4.executor": "Run",
     "Python.lesson_2.5.executor": "Run",
@@ -58,7 +72,7 @@
     "Python.lesson_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -165,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740000497653</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="21.02.2025">
+      <option name="closed" value="true" />
+      <created>1740090978895</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740090978895</updated>
+    </task>
+    <task id="LOCAL-00013" summary="21.02.2025">
+      <option name="closed" value="true" />
+      <created>1740091358527</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740091358527</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +214,8 @@
     <MESSAGE value="17.02.2025" />
     <MESSAGE value="18.02.2025" />
     <MESSAGE value="20.02.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="20.02.2025" />
+    <MESSAGE value="21.02.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.02.2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

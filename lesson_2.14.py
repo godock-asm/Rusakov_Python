@@ -89,7 +89,7 @@ print(getmax([88, 7, 22568, 1254, 1]))
 print('___________________')
 def sr(x, y, z):
     return (x+y+z)/3
-print(sr(8, 7, 0))
+print(sr(8, 7, 6))
 
 
 
