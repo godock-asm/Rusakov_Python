@@ -7,7 +7,7 @@ from random import *
 from math import sin, cos
 import math, cmath as cm
 import calc
-import mod
+import my_module
 
 #print(random.randint(0, 10))
 #print(m.sin(1))
@@ -49,16 +49,17 @@ print('_________________________________________________________________________
 # 3) Проверьте работу этих функций в основном файле.
 
 while True:
-    print("1 - Поиск max значения; 2 - Поиск min значения; 3 - Получение суммы всех элементов; 0 - Выход.")
+    print("Команда:1 - Поиск max значения;\nКоманда:2 - Поиск min значения;\nКоманда:3 - Получение суммы всех "
+          "элементов;\nКоманда:0 - Выход.")
     code= input("Введите команду: ")
     if code == "0":
         exit(0)
     if code == "1":
-        r = mod.getmax()
+        r = my_module.getmax()
     elif code== "2":
-        r = mod.getmin()
+        r = my_module.getmin()
     elif code == "3":
-        r = mod.sum()
+        r = my_module.sum()
     print("Результат:", r)
     break
 

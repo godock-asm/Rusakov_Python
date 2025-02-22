@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="21.02.2025">
-      <change beforePath="$PROJECT_DIR$/.idea/Rusakov_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rusakov_Python.iml" afterDir="false" />
+    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="22.02.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2.10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +48,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.555.executor": "Run",
+    "Python.;lug.executor": "Run",
+    "Python.Bonus_1.executor": "Run",
+    "Python.Lesson_1.executor": "Run",
     "Python.Lesson_10.executor": "Run",
     "Python.Lesson_12.executor": "Run",
     "Python.Lesson_14.executor": "Run",
+    "Python.Lesson_15.executor": "Run",
+    "Python.Lesson_17.executor": "Run",
+    "Python.Lesson_2.executor": "Run",
+    "Python.Lesson_3.executor": "Run",
+    "Python.Lesson_7.executor": "Run",
     "Python.Lesson_8.executor": "Run",
     "Python.calc.executor": "Run",
+    "Python.index.executor": "Run",
     "Python.kkkk.executor": "Run",
     "Python.lesson_1.executor": "Run",
     "Python.lesson_2.10.executor": "Run",
@@ -64,6 +71,11 @@
     "Python.lesson_2.14.executor": "Run",
     "Python.lesson_2.15.executor": "Run",
     "Python.lesson_2.16.executor": "Run",
+    "Python.lesson_2.17.executor": "Run",
+    "Python.lesson_2.17_(exercise).executor": "Run",
+    "Python.lesson_2.18.executor": "Run",
+    "Python.lesson_2.19.executor": "Debug",
+    "Python.lesson_2.19_(exercise).executor": "Run",
     "Python.lesson_2.3.executor": "Run",
     "Python.lesson_2.4.executor": "Run",
     "Python.lesson_2.5.executor": "Run",
@@ -72,12 +84,18 @@
     "Python.lesson_2.8.executor": "Run",
     "Python.lesson_2.9.executor": "Run",
     "Python.lesson_2.executor": "Run",
+    "Python.lesson_3.1.executor": "Run",
+    "Python.lesson_3.2.executor": "Run",
+    "Python.lesson_3.3.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
     "Python.lesson_5.executor": "Run",
+    "Python.lllllllll.executor": "Run",
     "Python.mod.executor": "Run",
     "Python.modul.executor": "Run",
+    "Python.my_mod.executor": "Run",
     "Python.my_modul.executor": "Run",
+    "Python.my_module.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -211,7 +229,39 @@
       <option name="project" value="LOCAL" />
       <updated>1740155922890</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="22.02.2025">
+      <option name="closed" value="true" />
+      <created>1740174050469</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740174050469</updated>
+    </task>
+    <task id="LOCAL-00016" summary="22.02.2025">
+      <option name="closed" value="true" />
+      <created>1740174200473</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740174200473</updated>
+    </task>
+    <task id="LOCAL-00017" summary="22.02.2025">
+      <option name="closed" value="true" />
+      <created>1740234951344</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740234951344</updated>
+    </task>
+    <task id="LOCAL-00018" summary="22.02.2025">
+      <option name="closed" value="true" />
+      <created>1740268024496</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740268024496</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,7 +281,9 @@
     <MESSAGE value="18.02.2025" />
     <MESSAGE value="20.02.2025" />
     <MESSAGE value="21.02.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.02.2025" />
+    <MESSAGE value="23.02.2025" />
+    <MESSAGE value="22.02.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.02.2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
