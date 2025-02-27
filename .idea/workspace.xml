@@ -7,8 +7,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="23.02.2025">
+    <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="27.02.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.17_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.17_(exercise).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.19.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.19_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.19_(exercise).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.5!.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.5!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.6!.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.6!.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.6_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.6_(exercise).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/my_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,18 +136,26 @@
     "Python.lesson_5.executor": "Run",
     "Python.lllllllll.executor": "Run",
     "Python.ltsson_3.5.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.mod.executor": "Run",
     "Python.modul.executor": "Run",
     "Python.mvkg.executor": "Run",
     "Python.my_mod.executor": "Run",
     "Python.my_modul.executor": "Run",
     "Python.my_module.executor": "Run",
+    "Python.trenir.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProject\Rusakov_Python\STANDARD_FEATURES" />
+      <recent name="E:\PythonProject\Rusakov_Python\OSNOVI" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -291,7 +332,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740339275741</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="27.02.2025">
+      <option name="closed" value="true" />
+      <created>1740679739717</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740679739717</updated>
+    </task>
+    <task id="LOCAL-00022" summary="27.02.2025">
+      <option name="closed" value="true" />
+      <created>1740680090405</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1740680090405</updated>
+    </task>
+    <task id="LOCAL-00023" summary="27.02.2025">
+      <option name="closed" value="true" />
+      <created>1740681344526</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1740681344526</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,17 +378,7 @@
     <MESSAGE value="21.02.2025" />
     <MESSAGE value="22.02.2025" />
     <MESSAGE value="23.02.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.2025" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="27.02.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.02.2025" />
   </component>
 </project>

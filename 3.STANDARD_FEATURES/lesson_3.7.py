@@ -61,7 +61,7 @@ d1=date(1970, 1, 1)
 dt = datetime.fromtimestamp(0)
 d2=d1-my_birthday
 print('Количество дней от Д.Р. до 01.01.1970 г.:',d2)
-d3=3327*86400
+d3=3327*24*3600
 print('Количество сек.от Д.Р. до 01.01.1970 г.:', d3,'сек.')
 time_of_my_life=d3+time()
 print('Время моей жизни на текущую дату:',time_of_my_life,'сек.')
