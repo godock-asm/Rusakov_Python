@@ -9,39 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="228bce2d-72d2-4370-ab75-d056b33855b6" name="Changes" comment="27.02.2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.10.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.11.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.12.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.13.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.14.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.15.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.16.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.17.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.17_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.17_(exercise).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.18.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.19.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.19_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.19_(exercise).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/lesson_2.9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.5!.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.5!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.6!.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.6!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.6_(exercise).py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.6_(exercise).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.STANDARD_FEATURES/lesson_3.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.OSNOVI/my_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +99,7 @@
     "Python.lesson_3.6_(exercise).executor": "Run",
     "Python.lesson_3.7.executor": "Run",
     "Python.lesson_3.executor": "Run",
+    "Python.lesson_4.2.executor": "Run",
     "Python.lesson_4.executor": "Run",
     "Python.lesson_5.executor": "Run",
     "Python.lllllllll.executor": "Run",
