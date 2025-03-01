@@ -27,4 +27,17 @@ print('_________________________________________________________________________
 # 2) Создайте экземпляр этого класса.
 # 3) Измените значения его свойств и выведите их.
 
+class Rectangle:
+    x_left_top =5
+    y_left_top=10
+    width=25
+    height=15
 
+r1= Rectangle()
+print(r1)
+print(r1.x_left_top,';',r1.y_left_top,';',r1.width,';',r1.height )
+r1.x_left_top=65
+r1.y_left_top=35
+r1.width=7
+r1.height=9
+print(r1.x_left_top,';',r1.y_left_top,';',r1.width,';',r1.height )
