@@ -54,7 +54,7 @@ def setwindow(root):
 root = Tk()
 setwindow(root)
 
-text = Text(root, bd=2, font="Tahoma 12", bg="PaleTurquoise", fg="Maroon", width=90, height=6, padx=10, pady=10)
+text = Text(root, bd=2, font="Tahoma 12", bg="PaleTurquoise", fg="Maroon", width=70, height=9, padx=10, pady=10)
 
 handler = open('lesson_5.5.txt',encoding='utf-8')
 text.insert(END, str(handler.read() ))

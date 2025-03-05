@@ -66,6 +66,7 @@ button3 = Button(root,text="Моя кнопка 3", bg="White", fg="Green", font
 
 
 
+
 button1.pack(padx=120, pady=10)
 button1.config(command=lambda: print("Привет, Tkinter!"))
 button2.pack(pady=10)
