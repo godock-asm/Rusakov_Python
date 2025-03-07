@@ -55,7 +55,7 @@ root.mainloop()
 print('__________________________________')
 
 root = Tk()
-root.title("Окно программы")
+root.title("Окно программы",)
 root.resizable(False, False)
 
 w = 1000
