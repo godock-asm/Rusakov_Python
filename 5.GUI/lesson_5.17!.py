@@ -81,9 +81,10 @@ uravnenie = Label(root, image=photo)
 uravnenie.pack()
 root.mainloop()
 
+print('__________________________________________________________________________________________________________')
+
 from tkinter import *
 from math import *
-
 
 def setwindow(root):
     root.title('Окно программы')
@@ -95,7 +96,6 @@ def setwindow(root):
     x = int(ws / 2 - w / 2)
     y = int(wh / 2 - h / 2)
     root.geometry('{0}x{1}+{2}+{3}'.format(w, h, x, y))
-
 
 def handlebutton(event=False):  # (event=False) - не обязательный параметр
     global en1
@@ -124,7 +124,6 @@ def handlebutton(event=False):  # (event=False) - не обязательный 
             result.config(text='Вы ввели не числа!')
     except ZeroDivisionError:
         result.config(text='Число а не может быть равно 0!')
-
 
 root = Tk()
 setwindow(root)
